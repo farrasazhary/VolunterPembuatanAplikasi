@@ -6,3 +6,4 @@ Repositori ini digunakan sebagai sayembara pencarian volunterr untuk pembuatan a
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Gilang Ramadhan, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
